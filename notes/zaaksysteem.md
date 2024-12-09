@@ -1,8 +1,8 @@
 ---
-attachments: [https꞉--www.flickr.com-photos-196344556@N02-54186641015-in-.txt]
+attachments: [CTF_templatearchitectuur.ctd]
 title: zaaksysteem
 created: '2024-12-09T05:33:23.614Z'
-modified: '2024-12-09T05:46:42.070Z'
+modified: '2024-12-09T05:55:21.067Z'
 ---
 
 # zaaksysteem
@@ -30,6 +30,16 @@ webserver sercurity
 Authebticatie en sessiemanagement
 Foutafhandeling, loggen en Backups
 Websecurity test 
+
+Privacyborging---
+
+https://www.flickr.com/photos/196344556@N02/54192336396/in/album-72177720305607489
+
+https://www.flickr.com/photos/196344556@N02/54192581193/in/album-72177720305607489
+
+https://www.flickr.com/photos/196344556@N02/54192633899/in/album-72177720305607489
+
+https://www.flickr.com/photos/196344556@N02/54192612868/in/album-72177720305607489
 
 https://x.com/grondwet143535/status/1865987318928081080
 
