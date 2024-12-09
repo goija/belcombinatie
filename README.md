@@ -1,2 +1,4 @@
 # belcombinatie
-topologie
+txt - Flickr
+notes -Notable
+attacments - Notable
