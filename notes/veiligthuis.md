@@ -1,10 +1,20 @@
 ---
 title: veiligthuis
 created: '2024-12-09T04:28:42.526Z'
-modified: '2024-12-09T04:36:49.920Z'
+modified: '2024-12-10T12:41:49.659Z'
 ---
 
 # veiligthuis
+
+https://www.flickr.com/photos/196344556@N02/54194365907/in/album-72177720305607489
+
+https://www.flickr.com/photos/196344556@N02/54195269936/in/album-72177720305607489
+
+https://www.flickr.com/photos/196344556@N02/54179332796/in/album-72177720322306192
+
+https://www.flickr.com/photos/196344556@N02/54178608557/in/album-72177720322306192
+
+https://www.flickr.com/photos/196344556@N02/54194365797/in/album-72177720305607489
 
 https://www.regiogv.nl/nieuws/pilot-hulpverlener-op-de-bank-van-start/
 
@@ -22,3 +32,16 @@ De Regio Gooi en Vechtstreek en Veilig Thuis hebben dit idee uitgewerkt met de b
 De Regio Gooi en Vechtstreek is blij met deze oplossing. “Het is traumatiserend voor jonge kinderen om middenin de nacht uit hun bed gehaald te worden en door een vreemde meneer of mevrouw naar een plek ver weg gebracht te worden,” zegt Karin van Hunnik, regionaal portefeuillehouder Jeugd en Onderwijs, “dit is voor de kinderen een veel betere oplossing. We doen dit eerst een jaar als pilot zodat we goed kunnen volgen hoe het gaat. ”
 
 Afgelopen week maakten medewerkers van Veilig Thuis en de ‘hulpverleners op de bank’ van Youké kennis met elkaar. De afspraken werden doorgenomen. Zo is de hulpverlener op de bank er alleen voor de kinderen. Het contact met de ouders verloopt via de crisisdienst. De dienst is er voor één nacht, de volgende ochtend neemt de crisisdienst het weer over. De dienst wordt alleen ingezet als de ouders akkoord geven.
+
+#Veiligthuis
+
+https://github.com/goija/belcombinatie/blob/main/notes/privacy-sociaaldomein.md
+
+https://github.com/goija/belcombinatie/blob/main/notes/Centrum%20jeugd%20en%20Gezin%20Eemnes.md
+
+https://github.com/goija/belcombinatie/blob/main/notes/%23vanhunnik.md
+
+
+https://github.com/goija/belcombinatie/blob/main/notes/zaaksysteem.md
+
+
