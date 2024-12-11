@@ -1,10 +1,14 @@
 ---
 title: Aletra Capital Partners B.V.
 created: '2024-12-10T12:09:54.471Z'
-modified: '2024-12-10T12:14:21.463Z'
+modified: '2024-12-11T11:43:22.993Z'
 ---
 
 # Aletra Capital Partners B.V.
+
+https://github.com/goija/belcombinatie/blob/main/kvk/kvk.txt
+
+https://bizzy.org/nl/nl/32109702/aletra-capital-partners-bv
 
 https://mastodon.social/@Rhiana/113615843283831236
 
