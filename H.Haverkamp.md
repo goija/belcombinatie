@@ -1,12 +1,14 @@
 ---
 title: H.Haverkamp
 created: '2024-12-11T20:55:46.430Z'
-modified: '2024-12-11T21:03:33.455Z'
+modified: '2024-12-11T21:18:01.304Z'
 ---
 
 # H.Haverkamp 
 
-EL Combinatie
+1. De Wijagent had mijtwee weken voor de gebeurtenis ingelicht dat zij alleen gesprekken zouden gaan hebben in Eemnes met jeugdzorg. 
+
+BEL Combinatie
 Zuidersingel 5
 3755 AZ Eemnes
 
@@ -22,10 +24,9 @@ integraal gewerkt kan worden. Ook is er aandacht is voor preventie. De medewerke
 team zijn generalisten, maar hebben ieder hun eigen expertise en affiniteit voor een bepaalde
 doelgroep. Voor het gezin zijn zij het aanspreekpunt dat ondersteuning kan bieden op alle
 terreinen. Binnen het team vullen medewerkers elkaar aan met ieder haar eigen kennis en
-specialisme.......https://eemnes.bestuurlijkeinformatie.nl/Document/View/2167aabf-8bd1-404f-8c01-63f68ee99d71
+specialisme.......
 
-
-
+https://eemnes.bestuurlijkeinformatie.nl/Document/View/2167aabf-8bd1-404f-8c01-63f68ee99d71
 
 https://api1.ibabs.eu/publicdownload.aspx?site=belgemeenten&id=100050983
 
@@ -33,6 +34,8 @@ https://eemnes.bestuurlijkeinformatie.nl/Document/View/2167aabf-8bd1-404f-8c01-6
 
 https://www.jgteemnes.nl/het-jeugd-en-gezinsteam-eemnes
 https://www.eemnes.nl/Hulp_bij_zorg/Jeugdhulp
+
+https://nl.linkedin.com/posts/annelies-berghuis_vers-van-de-pers-het-was-een-feestelijke-activity-7161851634111737856-9Gbi
 
 Bezoekadres BEL Combinatie
 Zuidersingel 5
