@@ -1,7 +1,7 @@
 ---
 title: NPMCapital
 created: '2024-12-10T12:20:55.932Z'
-modified: '2024-12-11T06:03:11.418Z'
+modified: '2024-12-11T06:21:50.845Z'
 ---
 
 # NPMCapital
@@ -46,6 +46,9 @@ https://knipselkrant-curacao.com/diversen/ftm-nl/ftm-accountant-van-steenrijke-f
 
 https://www.google.com/search?client=ubuntu-sn&sca_esv=3c1a55819b6b7e41&channel=fs&sxsrf=ADLYWIJhrLcVSwyTrJqAEVA0Xw_Jowaxqg:1733896870917&q=Fentener+van+Vlissingen+follow+the+money&udm=2&source=univ&fir=OhLp0ihN2-QhaM%252CrnfQXAr5hozzXM%252C_%253BhHOQsN9eaF6iwM%252CAszwtbqcjzvG3M%252C_%253BtHHxsxtLuz_ktM%252CAszwtbqcjzvG3M%252C_%253BvLyxW99i-18o2M%252CJFEWRDUor_OpzM%252C_%253Bd07Jo_Yjs0f6iM%252CVUggYh1ZcoAb8M%252C_%253BJ0VSPcDQ6O5cRM%252CLxtsF51FSbeW_M%252C_%253BLqhc_q9E2fEF4M%252CAszwtbqcjzvG3M%252C_%253B3ONjgWWtwM4bAM%252CbqRHgLauhFMa2M%252C_%253BV-5Gsg3ddvhreM%252C1ai2bwAO3--9JM%252C_&usg=AI4_-kQ7a_vMh1crhbe4m46dma7FpH9U9Q&sa=X&ved=2ahUKEwirwsWYhZ-KAxVv3AIHHRdDNyUQ7Al6BAgsEAY&biw=1457&bih=896&dpr=1
 
+https://www.banken.nl/nieuws/22914/npm-capital-schakelt-zakenbankiers-in-voor-verkoop-hak
+
+https://search.brave.com/search?q=NPMCapital
 
 
 
