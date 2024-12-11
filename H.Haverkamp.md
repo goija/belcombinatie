@@ -6,7 +6,7 @@ modified: '2024-12-11T21:22:26.607Z'
 
 # H.Haverkamp 
 
-1. Een wijkagent (niet meer in functie) had mij twee weken voor de gebeurtenis ingelicht dat zij alleen gesprekken zouden gaan hebben in Eemnes met jeugdzorg. 
+1. Een wijkagent (niet meer in functie) had mij twee weken voor de gebeurtenis ingelicht dat zij gesprekken zouden gaan voeren op het BELkantoor in Eemnes met jeugdzorg. 
 
 Dit had ik voor mij gehouden om zo de leugenaars te kunnen betrappen. Trek dat maar na. 
 
