@@ -6,8 +6,6 @@ modified: '2024-12-11T11:43:22.993Z'
 
 # Aletra Capital Partners B.V.
 
-https://github.com/goija/belcombinatie/blob/main/kvk/kvk.txt
-
 https://bizzy.org/nl/nl/32109702/aletra-capital-partners-bv
 
 https://mastodon.social/@Rhiana/113615843283831236
@@ -24,3 +22,4 @@ https://www.eu-startups.com/investor/aletra-capital-partners/
 
 https://www.google.com/search?client=ubuntu-sn&hs=u4i&sca_esv=adafaf889a5483d7&channel=fs&sxsrf=ADLYWII_f0C4PwN5DxumsOG4e521WbrFZA:1733832772982&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7ddMy6MPTIJBLnaQlVK5nOQLjRDwtXJh1ZdCy-wtAGRTDTOy4t7e2gMREjSZU5jO_-4tcC6EDVuEfjeGwjwtz0SeSzZpAmcZhvy6NXp8R_P0xdRQEfHunfG19XGyRNL1WlCBmahA&q=Aletra+Capital+Partners+B.V.+Reviews&si=ACC90nzcy7sviKw0NTZoUBUzhQehr3jouizIrVSf6avWI23m1UKZWnF4oJxEGfahWARy0ktFkvUuEISW5JwItnFYPUUcT5zQ6_SFaVRyJ2JTQmxFLIjaJKJ7TIIwCAcIAbFwui8LVrspXq6BPt-zWJ1zSObiy41biA%3D%3D&hl=en-NL&sa=X&ved=2ahUKEwjigKK0lp2KAxWH1gIHHSWwFvQQ_4MLegQINBAI&biw=1717&bih=896&dpr=1
 
+https://github.com/goija/Cassiopeia/blob/main/notes/Reynaert.md
