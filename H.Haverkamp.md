@@ -10,7 +10,11 @@ https://nl.linkedin.com/in/hans-haverkamp-92a68716
 
 1. Een wijkagent (niet meer in functie) had mij twee weken voor de gebeurtenis ingelicht dat zij gesprekken zouden gaan voeren op het BELkantoor in Eemnes met jeugdzorg. 
 
-Dit had ik voor mij gehouden om zo de leugenaars te kunnen betrappen. Trek dat maar na. 
+Dit had ik voor mij gehouden om zo de leugenaars te kunnen betrappen. 
+
+12 Sv
+
+https://github.com/goija/belcombinatie/blob/main/apply-model/U%20kunt%20als%20klager%20uw%20klacht.txt
 
 BEL Combinatie
 Zuidersingel 5
