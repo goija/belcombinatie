@@ -8,9 +8,7 @@ modified: '2024-12-11T21:22:26.607Z'
 
 https://nl.linkedin.com/in/hans-haverkamp-92a68716
 
-1. Een wijkagent (niet meer in functie) had mij twee weken voor de gebeurtenis ingelicht dat zij gesprekken zouden gaan voeren op het BELkantoor in Eemnes met jeugdzorg. 
-
-Dit had ik voor mij gehouden om zo de leugenaars te kunnen betrappen. 
+1. Een wijkagent (niet meer in functie) had twee weken voor de gebeurtenis ingelicht dat zij gesprekken zouden gaan voeren op het BELkantoor in Eemnes met jeugdzorg. 
 
 12 Sv
 
