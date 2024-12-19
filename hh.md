@@ -11,6 +11,10 @@ artikel 5.1
 
 1. Een wijkagent (niet meer in functie) had twee weken voor de gebeurtenis ingelicht dat zij gesprekken zouden gaan voeren op het BELkantoor in Eemnes met jeugdzorg. 
 
+Bezwaar. 
+https://github.com/goija/belcombinatie/blob/main/notes/bezwaar%2019%20dec%202024.odt
+
+podcast 19 dec 2024 follow the money 
 https://www.ftm.nl/artikelen/podcast-ratjetoe-aan-zorgbedrijven-leidt-tot-chaos-in-hoenderloo?share=kT7UuKQgIFnFEuWowlsGvWzHPokSjLah8GitW%2BZY2FeUn4nbRlODLT0JGBO%2FqsM%3D
 
 https://github.com/goija/belcombinatie/blob/main/apply-model/U%20kunt%20als%20klager%20uw%20klacht.txt
@@ -43,6 +47,8 @@ https://www.jgteemnes.nl/het-jeugd-en-gezinsteam-eemnes
 https://www.eemnes.nl/Hulp_bij_zorg/Jeugdhulp
 
 https://nl.linkedin.com/posts/annelies-berghuis_vers-van-de-pers-het-was-een-feestelijke-activity-7161851634111737856-9Gbi
+
+https://belcombinatie.varbi.com/fi/what:job/jobID:671111/
 
 Bezoekadres BEL Combinatie
 Zuidersingel 5
