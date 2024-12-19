@@ -12,8 +12,6 @@ https://nl.linkedin.com/in/hans-haverkamp-92a68716
 
 https://www.ftm.nl/artikelen/podcast-ratjetoe-aan-zorgbedrijven-leidt-tot-chaos-in-hoenderloo?share=kT7UuKQgIFnFEuWowlsGvWzHPokSjLah8GitW%2BZY2FeUn4nbRlODLT0JGBO%2FqsM%3D
 
-12 Sv
-
 https://github.com/goija/belcombinatie/blob/main/apply-model/U%20kunt%20als%20klager%20uw%20klacht.txt
 
 BEL Combinatie
